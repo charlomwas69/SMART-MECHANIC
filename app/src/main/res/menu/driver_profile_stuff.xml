@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group >
+        <item
+            android:id="@+id/name"
+            android:icon="@drawable/ic_person_black_24dp"
+            android:title="Name" />
+        <item
+            android:id="@+id/phone_number"
+            android:icon="@drawable/ic_local_phone_black_24dp"
+            android:title="Phone Number" />
+        <item
+            android:id="@+id/id_number"
+            android:icon="@drawable/ic_perm_identity_black_24dp"
+            android:title="ID Number" />
+    </group>
+</menu>

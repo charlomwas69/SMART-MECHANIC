@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "492075598533",
+    "firebase_url": "https://the-smart-mechanic.firebaseio.com",
+    "project_id": "the-smart-mechanic",
+    "storage_bucket": "the-smart-mechanic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492075598533:android:37c1bcca38e459b3c166ac",
+        "android_client_info": {
+          "package_name": "net.ddns.techworm.smart___mechanic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492075598533-f5mihs4hhdf3lts5veie5tgvhorh1hu9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmJroVpyjGFhI5CjHF9ry-yCuXzN5GXU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492075598533-f5mihs4hhdf3lts5veie5tgvhorh1hu9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
